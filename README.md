@@ -1,6 +1,4 @@
-# MSBD5002-Fall2018 group project
 
-Group project for MSBD5002
 
 ## Getting Started
 Important: it is assumed that the pwd is in src folder (if not, please use cd command to change the driectory)
